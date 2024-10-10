@@ -1,8 +1,14 @@
-Here's a README for your project:
+<div align="center">
+  <img src="public/logo.webp" alt="Resume Rater Logo" width="50%" />
+</div>
 
-# Resume Rater
+# Resume ~~Hater~~ Polite Analysis Tool 
 
 Resume Rater is a Next.js application that analyzes resumes using AI, provides detailed insights, and matches them against job descriptions.
+
+## Preview
+
+![Resume Rater](docs/preview.gif)
 
 ## Features
 
